@@ -2,8 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "coconut-shy",
-    "description": "A scene that uses physics to handle the throwing of coconuts and falling of piled up items",
+    "title": "boiler-plate",
+    "description": "Just basic setup",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
